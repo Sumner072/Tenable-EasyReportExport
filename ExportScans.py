@@ -1,5 +1,3 @@
-### Need a file named config.ini that contains API access and secret key information encoded in base64.
-
 # Native Python libraries
 import json
 import base64
